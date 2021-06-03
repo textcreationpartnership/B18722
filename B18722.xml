@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the weavers, who are petioners, [sic] to be relieved against a clause in the coale act.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18722</idno><idno type="EEBO-CITATION">99885715_186322</idno>
+  <idno type="VID">186322</idno>
+  <idno type="EEBO-PROQUEST">2264212848</idno>
+  
+            <idno type="STC">Wing C1177</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[90]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[122]</idno>
+            <idno type="STC">ESTC R224865</idno>
+            <idno type="PROQUEST">ocm99885715</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885715e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186322)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[90]; C4:1[119])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the weavers, who are petioners, [sic] to be relieved against a clause in the coale act.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Royal Lustring Company (London, England) --  Early works to 1800.</term>
+               <term type="corporate_name">Worshipful Company of Weavers (London, England) --  Early works to 1800.</term>
+               <term type="topical_term">Textile industry --  England --  Early works to 1800.</term>
+               <term type="topical_term">Patent laws and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186322:1"/>
+            <head>The Case of the Weavers, Who are Petioners, to be relieved against a Clause in the COALE ACT.</head>
+            <p>THAT <hi>Peter du Cloux,</hi>
+               <note place="margin">24. <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1688.</note> pretending himself to be the First Maker of <hi>Alamodes</hi> and <hi>Lustrings</hi> in <hi>England,</hi> did, with <hi>Clowdesly</hi> and <hi>Sherrard,</hi> procure a Patent for the sole making thereof, as a new Invention.</p>
+            <p>The Patentees made no use of the Grant by the space of Three Years,<note place="margin">1691.</note> until they sold the same to certain Merchants-Traders with <hi>France,</hi> and some Mercers who got themselves Incorporated in the Year 1691. by the Name of the <hi>Royal Lustring Company.</hi>
+            </p>
+            <p>In the Year 1694. (A Clause being incerted in the Act of Tonnage and Poundage,<note place="margin">1694.</note> to hinder the Importation of <hi>French</hi> Goods, for encouraging our <hi>English</hi> Manufacturys) the <hi>Lustring Company,</hi> under the Umbrage of that Clause, caused several Quantities of <hi>Alamodes</hi> and <hi>Lustrings,</hi> made by others, to be Seized; which appearing to be made in <hi>England,</hi> were restored to the Owners, who sold the same without Interruption.</p>
+            <p>In the Year 1695. the <hi>Lustring Company</hi> did write a Letter to the Company of <hi>Wea<g ref="char:EOLhyphen"/>vers,</hi> which the <hi>Weavers Company</hi> answered as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>GENTLEMEN,</salute>
+                     <dateline>
+                        <hi>Weavers Hall,</hi>
+                        <date>
+                           <hi>Decemb.</hi> 5th. <hi>1695</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>THE <hi>Company</hi> of <hi>Weavers</hi> would have answered your Letter sooner, had not the ex<g ref="char:EOLhyphen"/>traordinary Business that attends all Companys, but especially this, at that season of the Year, prevented them.</p>
+                  <p>Therefore, in Answer to your, you may be pleased to understand, That the <hi>Company</hi> of <hi>Weavers</hi> do wish the <hi>Royal Lustring Company,</hi> all the good Success imaginable, in the making of <hi>Alamodes</hi> and <hi>Lustring,</hi> so far as the making thereof doth not interfere with, or abridge their Members of their Antient Rights and Priviledges, which this <hi>Company</hi> al<g ref="char:EOLhyphen"/>ways had, and now have a tender Respest unto, and are, as much as in them lies, obliged to maintain and defend them in.</p>
+                  <p>As it is not obvious that the many Advantages you daily boast of to have procured to this Nation, are true, so on the other hand, some pretend they can prove your chiefest Advantage is by selling of ordinary Goods at a great price; which, if so, is too apparently a Prejudice to the Publick, as well as a Disgrace to the Manufacture, and that all the People employed by you they would employ (if not obstructed) with greater Advantage to the Nation, and to the perticular Persons they would so employ.</p>
+                  <p>And altho the <hi>Company</hi> heretofore apprehended that the best way of carrying on that Ma<g ref="char:EOLhyphen"/>nufacture, was by a joynt Stock; and therefore, such of them as then acted, might give their own Consents thereto, and wish you good Success therein: Yet they never intended, by any Consent of theirs, to abridge any of their Members from making the same on their own Acoounts (and especially such as could prove (as many pretend to do) an anticedent Right (and that they had attained to the full Knowledge in the Art both of making and <hi>Lustring</hi> the same, many Years before the passing of your Patent) which is evident from the Clause the <hi>Company</hi> caused to be Incerted in your Charter: And you well know, that they declared, at the passing thereof, they could not give away the Rights of their Members.</p>
+                  <p>'Tis presumed you well remember you formerly acquainted the <hi>Company,</hi> That you had Ar<g ref="char:EOLhyphen"/>rested some of their Members, for making <hi>Alamodes</hi> and <hi>Lustrings</hi> contrary (as you pre<g ref="char:EOLhyphen"/>tended) to your Patent, upon which 'twas expected that a fair Tryal would have ensued, touching the Validity thereof, and thereby have put a Period to the Differences between your selves and their Members; but your declining the same, have given their Members good Grounds to conclude your Patent was not obtained on such true and valid Reasons as were able to abide the Decision of a Court of Judicature, and there, for support thereof, you were in<g ref="char:EOLhyphen"/>duced (with the like Allegations you formerly used) to apply yourselves in that private man<g ref="char:EOLhyphen"/>ner to the last Parliament, for an Act to debar their Members, from selling that, which you know neither your Patent nor Charter can hinder them from making.</p>
+                  <p>The <hi>Company</hi> are as willing as you that all Differences and Misunderstandings should be laid aside, and that the <hi>Manufacture</hi> may be encouraged and increased, but do not think it proper to lay their Hands to the Plow by being interested in your <hi>Companys Stock</hi> at any Va<g ref="char:EOLhyphen"/>lue: But as to their perticular Members, they may act therein as they think fit.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>GENTLEMENT,</salute>
+                  </opener>
+                  <p>The <hi>Company</hi> cannot let this Oppertunity slip, without puting you in mind how contrary you act against your Charter, not only by preventing our Members from making <hi>Alamodes</hi>
+                     <pb facs="tcp:186322:2"/>and <hi>Lustrings,</hi> but also, by your hitherto employing chiefly such as are not Members of their <hi>Company.</hi> And since by your late Advertisement in the <hi>Gazett</hi> you would seem to reform in the latter; yet they could heartily wish (for your own Credits) you had performed what there<g ref="char:EOLhyphen"/>by you declared you would do, and not have given (as they too much fear you have done) not only such cause of Complaint, in this perticular, as is daily made against you, but also much Suspition that you never intended any more thereby, other than to give an Umbrage to some unreasonable Application for your own Advantages, tho to the prejudice of the Publick.</p>
+                  <p>If therefore you would sincerely manifest yourselves to be for the real Benefit and Advantage of the Nation, and desire that all Differences between the Members of the <hi>Company</hi> and your<g ref="char:EOLhyphen"/>selves may amicably be Composed; 'tis the Opinion of this <hi>Company,</hi> you can make no better Demonstration thereof than by pursuing the true Intention of your Charter, in permiting the Members of this <hi>Company</hi> quietly to make and dispose of this <hi>Manufacture</hi> without any in<g ref="char:EOLhyphen"/>terruption; and by taking such effectual Care that you employ none, for the time to come, but such only as are Members of this <hi>Company.</hi> By which you will obtain the good Will of the whole Nation, and among them, perticularly of <hi>Gentlemen, you most humble Servants.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Case Shewell,</hi> Clerk to the Worshipful Company of Weavers, <hi>Lond.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The <hi>Weavers</hi> had reason to write as aforesaid, for that Silks for Hoods and Scarves were made time out of mind in <hi>England,</hi> which are of the same make and sort of <hi>Alamodes</hi> and <hi>Lustrings</hi> as now pass by that Name: And several <hi>Weavers</hi> made such to a great De<g ref="char:EOLhyphen"/>gree of Perfection, before Letters Patents for the sole making thereof, as a new Inven<g ref="char:EOLhyphen"/>tion, were procured: And by <hi>Magna Charta,</hi> no Freeman is to be devested of his Freehold, by any ptetending a Right thereto, without legal Tryal and Condemnati<g ref="char:EOLhyphen"/>on, and every Branch of Mans Trade is his Freehold, and none by force of the Sa<g ref="char:EOLhyphen"/>tute of Monopolys 21 <hi>Jacob.</hi> I. <hi>Cap.</hi> 23. can pretend a Right to the sole making or sel<g ref="char:EOLhyphen"/>ling of any thing that any other could make or do before the Pretender to it. And the Petitioners being able to prove that several <hi>Weavers</hi> made <hi>Alamodes</hi> and <hi>Lustrings</hi> in <hi>England</hi> long before, and at the time of the Patent, were and are still ready to try the Validity thereof: And further, the Petitioners can prove, That the Patentees, as well as the Petitioners, gave over making such Goods in <hi>England,</hi> by reason the Markets here were over stocked, until Trade with <hi>France</hi> was prohibited. And after a Pro<g ref="char:EOLhyphen"/>hibition, the Petitioners did fall to work briskly, and not any have discontinued but out of Fear to be ruined by the <hi>Lustring Company;</hi> who making use of a Clause incerted in the <hi>Coale Act,</hi> for hindring the Importation of <hi>French</hi> Goods, would hinder above Ten Thousand free Master Weavers to make <hi>Alamodes</hi> and <hi>Lustrings,</hi> and consequent<g ref="char:EOLhyphen"/>ly would hinder above a Hundred Thousand Persons to Work; for the Master Wea<g ref="char:EOLhyphen"/>vers, their Journey Men, Servants, Apprentices, and others they imploy and depend on them, are so many at least in number.</p>
+            <p>If all <hi>Weavers</hi> in <hi>England</hi> be at Liberty to Work, they and the <hi>Lustring</hi> Companys Journeymen Weavers, will supply <hi>England</hi> with <hi>Alamodes</hi> and <hi>Lustrings;</hi> and destroy the Trade of <hi>Lyons;</hi> which the <hi>Lustring</hi> Company alone cannot do, for none of the <hi>Lustring</hi> Company are <hi>Weavers;</hi> but Captain <hi>Le Keux,</hi> and Mr. <hi>John Blondell,</hi> and the Petitioners, are not for hindring the <hi>Lustring</hi> Company to Trade.</p>
+            <p>Therefore the Petioners hope the <hi>Lustring</hi> Company shall in no wise be suffered to hinder them to work and buy Silks where they can have the same best and cheapest: Well knowing <hi>London</hi> affords Merchants enough that Trades to <hi>Italy,</hi> who will supply the <hi>English</hi> Weavers plentifully.</p>
+            <p>As for Smugling, that's Merchants and Traders Business, and not the Business of Workers and Makers of Goods in <hi>England;</hi> therefore all Weavers, not in Confede<g ref="char:EOLhyphen"/>racy with the <hi>Lustring</hi> Company, propose and have invented a Mark to be woven in the Piece, to be cut off so indented, while the Piece is in the Loom, and before it be cut off from the Warp, that it cannot be counterfeited by any Smugler; as will be demonstrated to this Honourable House.</p>
+            <p>And by reason the <hi>Lustring</hi> Company represented the Petitioners to be headed by,<note place="margin">28 <hi>Janu.</hi> 1965.</note> or with <hi>French</hi> Faction: And that the Majority of Weavers was for the <hi>Lustring</hi> Compa<g ref="char:EOLhyphen"/>ny, the Petitioners desired a Common Hall to be called, to try whether it was so or not, and One Hundred and Fifty <hi>English</hi> Weavers appeared for the Petitioners, against only Five for the <hi>Lustring</hi> Company, which plainly shewed that the <hi>Lustring</hi> Compa<g ref="char:EOLhyphen"/>ny and their Journeymen Weavers, who are but few in Number, would oppress ma<g ref="char:EOLhyphen"/>ny Master Weavers, their Journeymen, Servants, and Apprentices, <hi>&amp;c.</hi> Whose Number is very great.</p>
+            <p>
+               <hi>Therefore Your Petitioners hope to be Relieved by this Honourable House a<g ref="char:EOLhyphen"/>gainst the Clause in the</hi> Coale Act, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
